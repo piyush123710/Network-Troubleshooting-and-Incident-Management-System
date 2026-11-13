@@ -1,0 +1,6 @@
+{
+  "name": "NetTrace Incident Desk",
+  "description": "Network troubleshooting diagnostics (Ping, Tracert, IPConfig, NSLookup) and P1/P2 incident management system with SQL persistence and SOP runbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
